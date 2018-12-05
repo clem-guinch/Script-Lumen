@@ -6,7 +6,7 @@
 Dans le dossier ou vous voulez créer la machine virtuelle télécharger le script.
 
 
-Pour créer la machine et la lancer :
+Pour créer la machine et lancer :
 bash script-lumen.sh
 
 Une fois dans la VM :
